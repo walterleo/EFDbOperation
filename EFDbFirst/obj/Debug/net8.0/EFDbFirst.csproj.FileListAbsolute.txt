@@ -1,0 +1,12 @@
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\bin\Debug\net8.0\EFDbFirst.deps.json
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\bin\Debug\net8.0\EFDbFirst.dll
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\bin\Debug\net8.0\EFDbFirst.pdb
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\obj\Debug\net8.0\EFDbFirst.csproj.AssemblyReference.cache
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\obj\Debug\net8.0\EFDbFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\obj\Debug\net8.0\EFDbFirst.AssemblyInfoInputs.cache
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\obj\Debug\net8.0\EFDbFirst.AssemblyInfo.cs
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\obj\Debug\net8.0\EFDbFirst.csproj.CoreCompileInputs.cache
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\obj\Debug\net8.0\EFDbFirst.dll
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\obj\Debug\net8.0\refint\EFDbFirst.dll
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\obj\Debug\net8.0\EFDbFirst.pdb
+C:\Users\mezaw\source\repos\EFDBOperations\EFDbFirst\obj\Debug\net8.0\ref\EFDbFirst.dll

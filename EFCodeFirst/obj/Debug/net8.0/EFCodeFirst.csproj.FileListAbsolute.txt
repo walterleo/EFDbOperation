@@ -1,0 +1,14 @@
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\bin\Debug\net8.0\EFCodeFirst.deps.json
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\bin\Debug\net8.0\EFCodeFirst.runtimeconfig.json
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\bin\Debug\net8.0\EFCodeFirst.dll
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\bin\Debug\net8.0\EFCodeFirst.pdb
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\obj\Debug\net8.0\EFCodeFirst.csproj.AssemblyReference.cache
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\obj\Debug\net8.0\EFCodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\obj\Debug\net8.0\EFCodeFirst.AssemblyInfoInputs.cache
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\obj\Debug\net8.0\EFCodeFirst.AssemblyInfo.cs
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\obj\Debug\net8.0\EFCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\obj\Debug\net8.0\EFCodeFirst.dll
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\obj\Debug\net8.0\refint\EFCodeFirst.dll
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\obj\Debug\net8.0\EFCodeFirst.pdb
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\obj\Debug\net8.0\EFCodeFirst.genruntimeconfig.cache
+C:\Users\mezaw\source\repos\EFDBOperations\EFCodeFirst\obj\Debug\net8.0\ref\EFCodeFirst.dll
